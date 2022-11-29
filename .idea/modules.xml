@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../iyb/.idea/iyb.iml" filepath="$PROJECT_DIR$/../iyb/.idea/iyb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/reactprp.iml" filepath="$PROJECT_DIR$/.idea/reactprp.iml" />
     </modules>
   </component>
